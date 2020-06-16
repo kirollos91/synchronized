@@ -1,8 +1,5 @@
 
-package EssaJava2.Synchronizations;
-
-
-public class synchronization3  {
+public class synchronization  {
     
     public static void main(String[] args){
             
